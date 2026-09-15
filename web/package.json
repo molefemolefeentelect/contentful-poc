@@ -10,6 +10,8 @@
     "test": "vitest run"
   },
   "dependencies": {
+    "@contentful/rich-text-react-renderer": "^16.2.2",
+    "@contentful/rich-text-types": "^17.2.7",
     "next": "15.5.25",
     "react": "19.1.0",
     "react-dom": "19.1.0"
