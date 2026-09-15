@@ -22,12 +22,16 @@ public sealed class FundListSectionResolver : ISectionResolver
         var topN = entry.GetInt("topN");
         var showFilters = entry.GetBool("showFilters");
 
+        // Authors pick "All" in Contentful to mean "no filter"; the Fund Data API has no
+        // category with that id, so passing it through verbatim would return zero funds.
+        var categoryFilter = string.Equals(categoryId, "all", StringComparison.OrdinalIgnoreCase) ? null : categoryId;
+
         IReadOnlyList<FundSummary> funds = Array.Empty<FundSummary>();
         IReadOnlyList<FundCategory> categories = Array.Empty<FundCategory>();
 
         try
         {
-            var fundsTask = _funds.GetFundsAsync(categoryId, topN, ct);
+            var fundsTask = _funds.GetFundsAsync(categoryFilter, topN, ct);
             var categoriesTask = showFilters ? _funds.GetCategoriesAsync(ct) : Task.FromResult<IReadOnlyList<FundCategory>>(Array.Empty<FundCategory>());
             await Task.WhenAll(fundsTask, categoriesTask);
             funds = fundsTask.Result;
