@@ -737,14 +737,7 @@
           },
           {
             "sys": {
-              "id": "navitem-how-to-invest",
-              "type": "Link",
-              "linkType": "Entry"
-            }
-          },
-          {
-            "sys": {
-              "id": "navitem-tax-free",
+              "id": "navitem-investing",
               "type": "Link",
               "linkType": "Entry"
             }
@@ -2868,6 +2861,40 @@
               "linkType": "Entry"
             }
           }
+        }
+      },
+      {
+        "sys": {
+          "id": "navitem-investing",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "navigationItem",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "label": "Investing",
+          "children": [
+            {
+              "sys": {
+                "id": "navitem-how-to-invest",
+                "type": "Link",
+                "linkType": "Entry"
+              }
+            },
+            {
+              "sys": {
+                "id": "navitem-tax-free",
+                "type": "Link",
+                "linkType": "Entry"
+              }
+            }
+          ]
         }
       },
       {
