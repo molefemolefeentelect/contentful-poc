@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+bin/
+obj/
+.env*.local
+.env
+*.user
+.vs/
+.DS_Store
+TestResults/
