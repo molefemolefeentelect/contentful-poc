@@ -17,7 +17,9 @@ if (!spaceId || !accessToken) {
   process.exit(1);
 }
 
-const client = createClient({ accessToken });
+// contentful-management v12 defaults to the flat "plain" API; this script uses the
+// chainable getSpace()/getEnvironment() legacy shape, so opt into it explicitly.
+const client = createClient({ accessToken }, { type: "legacy" });
 const space = await client.getSpace(spaceId);
 const env = await space.getEnvironment(environmentId);
 

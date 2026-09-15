@@ -18,8 +18,17 @@ public sealed class HttpFundDataClient : IFundDataClient
         if (top is > 0) query.Add($"top={top}");
         var url = "/funds" + (query.Count > 0 ? "?" + string.Join("&", query) : "");
 
-        return await _http.GetFromJsonAsync<List<FundSummary>>(url, Json, ct) ?? new List<FundSummary>();
+        // The Fund Data API nests one-year return under "performance.oneYear" (same shape as
+        // /funds/{code}), not as a flat "oneYearReturn" — deserializing straight into
+        // FundSummary would silently leave OneYearReturn at 0 for every fund.
+        var wire = await _http.GetFromJsonAsync<List<FundSummaryWire>>(url, Json, ct) ?? new List<FundSummaryWire>();
+        return wire.Select(w => new FundSummary(
+            w.Code, w.Name, w.ShortDescription, w.CategoryId, w.Nav, w.DayChangePercent, w.Ter, w.Performance.OneYear)).ToList();
     }
+
+    private sealed record FundSummaryWire(
+        string Code, string Name, string ShortDescription, string CategoryId,
+        decimal Nav, decimal DayChangePercent, decimal Ter, FundPerformance Performance);
 
     public async Task<FundDetail?> GetFundAsync(string code, CancellationToken ct)
     {

@@ -62,6 +62,15 @@ public sealed class PageResolutionService
 
     private async Task<ResolvedEntry?> FetchPageEntryAsync(string slug, bool preview, CancellationToken ct)
     {
+        // Contentful's CDA silently drops query params with an empty value (fields.slug=),
+        // so an exact-match filter can't be used to find the homepage, whose slug IS "".
+        // Fetch all pages and match client-side instead, just for that one case.
+        if (slug.Length == 0)
+        {
+            var all = await _contentful.QueryAsync(new ContentfulQuery("page", null, Include: 6, Limit: 100), preview, ct);
+            return _links.ResolveItems(all).FirstOrDefault(e => e.GetString("slug") == "");
+        }
+
         var result = await _contentful.QueryAsync(
             new ContentfulQuery("page", new Dictionary<string, string> { ["fields.slug"] = slug }, Include: 6, Limit: 1),
             preview, ct);
