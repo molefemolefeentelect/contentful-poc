@@ -14,6 +14,10 @@ public static class PageEndpoints
             CancellationToken ct) =>
         {
             var normalised = (slug ?? "").Trim('/');
+
+            if (normalised == PageResolutionService.FundDetailTemplateSlug && string.IsNullOrWhiteSpace(fundCode))
+                return Results.NotFound(new { message = $"'/{normalised}' is a template and requires a fundCode query parameter." });
+
             var page = await pages.GetPageAsync(normalised, preview ?? false, fundCode, ct);
 
             return page is null
