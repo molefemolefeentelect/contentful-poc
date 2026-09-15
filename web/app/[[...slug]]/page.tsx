@@ -21,8 +21,20 @@ const isReservedSlug = (slug: string) => slug.startsWith("_") || slug.includes("
 // Statically generate every published URL the BFF knows about. Pages published later
 // are served on demand and cached by ISR, so a new page needs no redeploy.
 export async function generateStaticParams() {
-  const entries = await getSitemap();
   const base = process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
+
+  // getSitemap() throws (rather than resolving to null) for anything other than a 404
+  // — including a BFF outage during the build. generateStaticParams has no
+  // error-boundary equivalent either, so an uncaught throw here fails the ENTIRE
+  // build, not just one page. Degrade to "no pages pre-rendered at build time" —
+  // dynamicParams is already true, so every page still renders correctly on demand.
+  let entries: Awaited<ReturnType<typeof getSitemap>>;
+  try {
+    entries = await getSitemap();
+  } catch (error) {
+    console.error("Failed to fetch sitemap entries from the BFF; skipping static generation for this build.", error);
+    entries = null;
+  }
 
   return (entries ?? [])
     .map((entry) => entry.loc.replace(base, "").replace(/^\//, ""))
