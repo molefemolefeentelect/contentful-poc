@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { resolveIndexation } from "@/lib/indexation";
+import { resolveIndexation, getSingleCategoryFilter } from "@/lib/indexation";
 
 const BASE = "https://www.example.co.za/funds";
 
@@ -46,5 +46,15 @@ describe("resolveIndexation", () => {
       const result = resolveIndexation(BASE, params, ["1", "2", "3"]);
       expect(result.canonicalOverride !== undefined && result.forceNoIndex).toBe(false);
     }
+  });
+});
+
+describe("getSingleCategoryFilter", () => {
+  it("returns undefined for a repeated categoryId, matching resolveIndexation's treatment of it as not a single-category filter", () => {
+    expect(getSingleCategoryFilter({ categoryId: ["1", "2"] })).toBeUndefined();
+  });
+
+  it("returns the value for a single categoryId", () => {
+    expect(getSingleCategoryFilter({ categoryId: "1" })).toBe("1");
   });
 });

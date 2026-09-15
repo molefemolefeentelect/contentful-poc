@@ -56,3 +56,13 @@ export function resolveIndexation(
 
   return { canonicalOverride: undefined, forceNoIndex: true };
 }
+
+/**
+ * Extracts a single categoryId value from query params, or undefined if none/multiple
+ * were provided. Shared by resolveIndexation's callers and any page that applies the
+ * filter server-side, so the two never interpret the same query shape differently.
+ */
+export function getSingleCategoryFilter(params: Record<string, string | string[] | undefined>): string | undefined {
+  const value = params.categoryId;
+  return typeof value === "string" ? value : undefined;
+}
