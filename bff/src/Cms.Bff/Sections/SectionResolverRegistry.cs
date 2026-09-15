@@ -42,7 +42,14 @@ public sealed class SectionResolverRegistry
 
         try
         {
-            return await resolver.ResolveAsync(entry, context, ct);
+            var result = await resolver.ResolveAsync(entry, context, ct);
+            if (result is null)
+            {
+                _logger.LogWarning(
+                    "Resolver for '{ContentType}' returned no section for entry {EntryId} (page '{Slug}') — likely incomplete authoring. Section dropped.",
+                    entry.ContentTypeId, entry.Id, context.Slug);
+            }
+            return result;
         }
         catch (OperationCanceledException) when (ct.IsCancellationRequested)
         {

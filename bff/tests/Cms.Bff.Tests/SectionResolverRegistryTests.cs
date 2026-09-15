@@ -21,6 +21,13 @@ public class SectionResolverRegistryTests
             Task.FromResult<SectionDto?>(new HeroSection { Id = entry.Id, Heading = entry.GetString("heading") ?? "" });
     }
 
+    private sealed class NullReturningResolver : ISectionResolver
+    {
+        public string ContentTypeId => "sectionCtaBanner";
+        public Task<SectionDto?> ResolveAsync(ResolvedEntry entry, SectionContext context, CancellationToken ct) =>
+            Task.FromResult<SectionDto?>(null);
+    }
+
     [Fact]
     public async Task Dispatches_to_the_resolver_registered_for_the_content_type()
     {
@@ -65,5 +72,21 @@ public class SectionResolverRegistryTests
             CancellationToken.None);
 
         sections.Select(s => s.Id).Should().ContainInOrder("a", "b", "c");
+    }
+
+    [Fact]
+    public async Task Drops_section_when_resolver_returns_null_without_throwing()
+    {
+        var sections = await Registry(new FakeResolver(), new NullReturningResolver()).ResolveAllAsync(
+            new[]
+            {
+                Entry("h1", "sectionHero", new() { ["heading"] = "Kept" }),
+                Entry("cta1", "sectionCtaBanner"),
+            },
+            SectionContext.ForPage("/"),
+            CancellationToken.None);
+
+        sections.Should().ContainSingle("a resolver that deliberately returns null for incomplete authoring must be dropped, not throw");
+        sections[0].Id.Should().Be("h1");
     }
 }
