@@ -81,6 +81,22 @@ public class FixtureContentfulClientTests
         result.Items.Select(e => e.Sys.Id).Should().Equal("page-about");
     }
 
+    [Fact]
+    public async Task Empty_string_slug_filter_matches_only_the_homepage()
+    {
+        var client = CreateClient();
+
+        // The homepage is authored with fields.slug = "" (it renders at "/"). This pins
+        // Matches' string-equality check as an exact match against "", not a falsy/absent
+        // check that would either match nothing or match every page missing a slug.
+        var filters = new Dictionary<string, string> { ["fields.slug"] = "" };
+        var query = new ContentfulQuery("page", Filters: filters);
+
+        var result = await client.QueryAsync(query, preview: false);
+
+        result.Items.Select(e => e.Sys.Id).Should().Equal("page-home");
+    }
+
     private sealed class EnvStub : IWebHostEnvironment
     {
         public EnvStub(string contentRootPath) => ContentRootPath = contentRootPath;
