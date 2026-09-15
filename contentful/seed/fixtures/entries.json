@@ -1,0 +1,3156 @@
+{
+  "sys": {
+    "type": "Array"
+  },
+  "total": 14,
+  "skip": 0,
+  "limit": 1000,
+  "items": [
+    {
+      "sys": {
+        "id": "article-market-outlook-2026",
+        "type": "Entry",
+        "createdAt": "2026-02-10T09:00:00Z",
+        "updatedAt": "2026-02-10T09:00:00Z",
+        "contentType": {
+          "sys": {
+            "id": "article",
+            "type": "Link",
+            "linkType": "ContentType"
+          }
+        }
+      },
+      "fields": {
+        "title": "Market Outlook 2026: Staying the Course",
+        "slug": "market-outlook-2026",
+        "seo": {
+          "sys": {
+            "id": "seo-article-market-outlook",
+            "type": "Link",
+            "linkType": "Entry"
+          }
+        },
+        "excerpt": "Our research desk's view on markets heading into the rest of 2026, and what it means for index investors.",
+        "body": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Markets have been volatile through the first half of 2026, but the case for staying invested in a diversified, low-cost index fund remains as strong as ever.",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Trying to time the market is difficult even for professional investors. A simple, consistent contribution plan into a broad index fund has historically outperformed most attempts to trade around volatility.",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        },
+        "featuredImage": {
+          "sys": {
+            "id": "media-article-1",
+            "type": "Link",
+            "linkType": "Entry"
+          }
+        },
+        "author": {
+          "sys": {
+            "id": "author-naledi",
+            "type": "Link",
+            "linkType": "Entry"
+          }
+        },
+        "category": {
+          "sys": {
+            "id": "cat-market-insights",
+            "type": "Link",
+            "linkType": "Entry"
+          }
+        },
+        "tags": [
+          "markets",
+          "outlook",
+          "2026"
+        ],
+        "publishDate": "2026-02-10"
+      }
+    },
+    {
+      "sys": {
+        "id": "article-new-tfsa-fund-launch",
+        "type": "Entry",
+        "createdAt": "2026-03-18T09:00:00Z",
+        "updatedAt": "2026-03-18T09:00:00Z",
+        "contentType": {
+          "sys": {
+            "id": "article",
+            "type": "Link",
+            "linkType": "ContentType"
+          }
+        }
+      },
+      "fields": {
+        "title": "Introducing a New Tax-Free Fund Option",
+        "slug": "new-tfsa-fund-launch",
+        "seo": {
+          "sys": {
+            "id": "seo-article-tfsa-launch",
+            "type": "Link",
+            "linkType": "Entry"
+          }
+        },
+        "excerpt": "Yield & Co launches a new tax-free savings account option tracking a broad equity benchmark.",
+        "body": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "We're pleased to announce a new fund option available inside our tax-free savings account, tracking a broad, diversified equity benchmark.",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Existing TFSA holders can switch into the new option at no cost, and new investors can select it when opening an account.",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        },
+        "featuredImage": {
+          "sys": {
+            "id": "media-article-2",
+            "type": "Link",
+            "linkType": "Entry"
+          }
+        },
+        "author": {
+          "sys": {
+            "id": "author-thabo",
+            "type": "Link",
+            "linkType": "Entry"
+          }
+        },
+        "category": {
+          "sys": {
+            "id": "cat-fund-news",
+            "type": "Link",
+            "linkType": "Entry"
+          }
+        },
+        "tags": [
+          "tfsa",
+          "fund-launch"
+        ],
+        "publishDate": "2026-03-18"
+      }
+    },
+    {
+      "sys": {
+        "id": "article-index-investing-101",
+        "type": "Entry",
+        "createdAt": "2026-04-05T09:00:00Z",
+        "updatedAt": "2026-04-05T09:00:00Z",
+        "contentType": {
+          "sys": {
+            "id": "article",
+            "type": "Link",
+            "linkType": "ContentType"
+          }
+        }
+      },
+      "fields": {
+        "title": "Index Investing 101: The Basics",
+        "slug": "index-investing-101",
+        "seo": {
+          "sys": {
+            "id": "seo-article-index-101",
+            "type": "Link",
+            "linkType": "Entry"
+          }
+        },
+        "excerpt": "A plain-language introduction to index investing: what an index fund is and why costs matter.",
+        "body": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "An index fund simply aims to track the performance of a market benchmark, rather than trying to beat it by picking individual winners and losers.",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Because index funds don't need large research teams making active bets, they can be run at a much lower cost — and lower costs mean more of the return stays with you.",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        },
+        "featuredImage": {
+          "sys": {
+            "id": "media-article-3",
+            "type": "Link",
+            "linkType": "Entry"
+          }
+        },
+        "author": {
+          "sys": {
+            "id": "author-thabo",
+            "type": "Link",
+            "linkType": "Entry"
+          }
+        },
+        "category": {
+          "sys": {
+            "id": "cat-investor-education",
+            "type": "Link",
+            "linkType": "Entry"
+          }
+        },
+        "tags": [
+          "basics",
+          "education"
+        ],
+        "publishDate": "2026-04-05"
+      }
+    },
+    {
+      "sys": {
+        "id": "article-fee-cuts-2026",
+        "type": "Entry",
+        "createdAt": "2026-05-22T09:00:00Z",
+        "updatedAt": "2026-05-22T09:00:00Z",
+        "contentType": {
+          "sys": {
+            "id": "article",
+            "type": "Link",
+            "linkType": "ContentType"
+          }
+        }
+      },
+      "fields": {
+        "title": "Yield & Co Cuts Fees Across Core Funds",
+        "slug": "fee-cuts-2026",
+        "seo": {
+          "sys": {
+            "id": "seo-article-fee-cuts",
+            "type": "Link",
+            "linkType": "Entry"
+          }
+        },
+        "excerpt": "Yield & Co reduces total expense ratios across its core equity and bond index funds from March 2026.",
+        "body": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "From this quarter, we're reducing the total expense ratio on our core equity and bond index funds, passing the savings directly on to investors.",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "No action is required from existing investors — the new, lower fees apply automatically to your existing holdings.",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        },
+        "featuredImage": {
+          "sys": {
+            "id": "media-article-4",
+            "type": "Link",
+            "linkType": "Entry"
+          }
+        },
+        "author": {
+          "sys": {
+            "id": "author-naledi",
+            "type": "Link",
+            "linkType": "Entry"
+          }
+        },
+        "category": {
+          "sys": {
+            "id": "cat-fund-news",
+            "type": "Link",
+            "linkType": "Entry"
+          }
+        },
+        "tags": [
+          "fees",
+          "fund-news"
+        ],
+        "publishDate": "2026-05-22"
+      }
+    },
+    {
+      "sys": {
+        "id": "page-home",
+        "type": "Entry",
+        "createdAt": "2026-01-10T08:00:00Z",
+        "updatedAt": "2026-09-01T10:30:00Z",
+        "contentType": {
+          "sys": {
+            "id": "page",
+            "type": "Link",
+            "linkType": "ContentType"
+          }
+        }
+      },
+      "fields": {
+        "title": "Home",
+        "slug": "",
+        "pageType": "marketing",
+        "seo": {
+          "sys": {
+            "id": "seo-home",
+            "type": "Link",
+            "linkType": "Entry"
+          }
+        },
+        "sections": [
+          {
+            "sys": {
+              "id": "sec-home-hero",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          },
+          {
+            "sys": {
+              "id": "sec-home-cards",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          },
+          {
+            "sys": {
+              "id": "sec-home-cta",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          },
+          {
+            "sys": {
+              "id": "sec-home-teasers",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          },
+          {
+            "sys": {
+              "id": "sec-global-disclaimer",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sys": {
+        "id": "page-about",
+        "type": "Entry",
+        "createdAt": "2026-01-10T08:00:00Z",
+        "updatedAt": "2026-09-01T10:30:00Z",
+        "contentType": {
+          "sys": {
+            "id": "page",
+            "type": "Link",
+            "linkType": "ContentType"
+          }
+        }
+      },
+      "fields": {
+        "title": "About",
+        "slug": "about",
+        "pageType": "marketing",
+        "seo": {
+          "sys": {
+            "id": "seo-about",
+            "type": "Link",
+            "linkType": "Entry"
+          }
+        },
+        "sections": [
+          {
+            "sys": {
+              "id": "sec-about-hero",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          },
+          {
+            "sys": {
+              "id": "sec-about-image-text-1",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          },
+          {
+            "sys": {
+              "id": "sec-about-image-text-2",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          },
+          {
+            "sys": {
+              "id": "sec-about-cta",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          },
+          {
+            "sys": {
+              "id": "sec-unknown",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sys": {
+        "id": "page-how-to-invest",
+        "type": "Entry",
+        "createdAt": "2026-01-10T08:00:00Z",
+        "updatedAt": "2026-09-01T10:30:00Z",
+        "contentType": {
+          "sys": {
+            "id": "page",
+            "type": "Link",
+            "linkType": "ContentType"
+          }
+        }
+      },
+      "fields": {
+        "title": "How to Invest",
+        "slug": "how-to-invest",
+        "pageType": "marketing",
+        "seo": {
+          "sys": {
+            "id": "seo-how-to-invest",
+            "type": "Link",
+            "linkType": "Entry"
+          }
+        },
+        "sections": [
+          {
+            "sys": {
+              "id": "sec-hti-richtext",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          },
+          {
+            "sys": {
+              "id": "sec-hti-faq",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          },
+          {
+            "sys": {
+              "id": "sec-hti-cta",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sys": {
+        "id": "page-tax-free",
+        "type": "Entry",
+        "createdAt": "2026-01-10T08:00:00Z",
+        "updatedAt": "2026-09-01T10:30:00Z",
+        "contentType": {
+          "sys": {
+            "id": "page",
+            "type": "Link",
+            "linkType": "ContentType"
+          }
+        }
+      },
+      "fields": {
+        "title": "Tax-Free Investing",
+        "slug": "tax-free-investing",
+        "pageType": "marketing",
+        "seo": {
+          "sys": {
+            "id": "seo-tax-free",
+            "type": "Link",
+            "linkType": "Entry"
+          }
+        },
+        "sections": [
+          {
+            "sys": {
+              "id": "sec-taxfree-richtext",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          },
+          {
+            "sys": {
+              "id": "sec-taxfree-cards",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          },
+          {
+            "sys": {
+              "id": "sec-taxfree-faq",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          },
+          {
+            "sys": {
+              "id": "sec-global-disclaimer",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sys": {
+        "id": "page-funds",
+        "type": "Entry",
+        "createdAt": "2026-01-10T08:00:00Z",
+        "updatedAt": "2026-09-01T10:30:00Z",
+        "contentType": {
+          "sys": {
+            "id": "page",
+            "type": "Link",
+            "linkType": "ContentType"
+          }
+        }
+      },
+      "fields": {
+        "title": "Funds",
+        "slug": "funds",
+        "pageType": "dataDriven",
+        "seo": {
+          "sys": {
+            "id": "seo-funds",
+            "type": "Link",
+            "linkType": "Entry"
+          }
+        },
+        "sections": [
+          {
+            "sys": {
+              "id": "sec-funds-richtext",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          },
+          {
+            "sys": {
+              "id": "sec-funds-list-widget",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          },
+          {
+            "sys": {
+              "id": "sec-global-disclaimer",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sys": {
+        "id": "page-fund-detail",
+        "type": "Entry",
+        "createdAt": "2026-01-10T08:00:00Z",
+        "updatedAt": "2026-09-01T10:30:00Z",
+        "contentType": {
+          "sys": {
+            "id": "page",
+            "type": "Link",
+            "linkType": "ContentType"
+          }
+        }
+      },
+      "fields": {
+        "title": "Fund Detail",
+        "slug": "funds/_detail",
+        "pageType": "dataDriven",
+        "seo": {
+          "sys": {
+            "id": "seo-fund-detail",
+            "type": "Link",
+            "linkType": "Entry"
+          }
+        },
+        "sections": [
+          {
+            "sys": {
+              "id": "sec-fund-detail-widget",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          },
+          {
+            "sys": {
+              "id": "sec-global-disclaimer",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sys": {
+        "id": "page-news",
+        "type": "Entry",
+        "createdAt": "2026-01-10T08:00:00Z",
+        "updatedAt": "2026-09-01T10:30:00Z",
+        "contentType": {
+          "sys": {
+            "id": "page",
+            "type": "Link",
+            "linkType": "ContentType"
+          }
+        }
+      },
+      "fields": {
+        "title": "News",
+        "slug": "news",
+        "pageType": "marketing",
+        "seo": {
+          "sys": {
+            "id": "seo-news",
+            "type": "Link",
+            "linkType": "Entry"
+          }
+        },
+        "sections": [
+          {
+            "sys": {
+              "id": "sec-news-hero",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          },
+          {
+            "sys": {
+              "id": "sec-news-teasers",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sys": {
+        "id": "nav-header",
+        "type": "Entry",
+        "createdAt": "2026-01-10T08:00:00Z",
+        "updatedAt": "2026-09-01T10:30:00Z",
+        "contentType": {
+          "sys": {
+            "id": "navigation",
+            "type": "Link",
+            "linkType": "ContentType"
+          }
+        }
+      },
+      "fields": {
+        "name": "Header Navigation",
+        "key": "header",
+        "items": [
+          {
+            "sys": {
+              "id": "navitem-funds",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          },
+          {
+            "sys": {
+              "id": "navitem-how-to-invest",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          },
+          {
+            "sys": {
+              "id": "navitem-tax-free",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          },
+          {
+            "sys": {
+              "id": "navitem-news",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          },
+          {
+            "sys": {
+              "id": "navitem-about",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sys": {
+        "id": "nav-footer",
+        "type": "Entry",
+        "createdAt": "2026-01-10T08:00:00Z",
+        "updatedAt": "2026-09-01T10:30:00Z",
+        "contentType": {
+          "sys": {
+            "id": "navigation",
+            "type": "Link",
+            "linkType": "ContentType"
+          }
+        }
+      },
+      "fields": {
+        "name": "Footer Navigation",
+        "key": "footer",
+        "items": [
+          {
+            "sys": {
+              "id": "navitem-footer-about",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          },
+          {
+            "sys": {
+              "id": "navitem-footer-news",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          },
+          {
+            "sys": {
+              "id": "navitem-footer-contact",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sys": {
+        "id": "settings-main",
+        "type": "Entry",
+        "createdAt": "2026-01-10T08:00:00Z",
+        "updatedAt": "2026-09-01T10:30:00Z",
+        "contentType": {
+          "sys": {
+            "id": "siteSettings",
+            "type": "Link",
+            "linkType": "ContentType"
+          }
+        }
+      },
+      "fields": {
+        "siteName": "Yield & Co",
+        "logo": {
+          "sys": {
+            "id": "media-logo",
+            "type": "Link",
+            "linkType": "Entry"
+          }
+        },
+        "defaultSeo": {
+          "sys": {
+            "id": "seo-default",
+            "type": "Link",
+            "linkType": "Entry"
+          }
+        },
+        "socialLinks": {
+          "twitter": "https://twitter.com/example",
+          "linkedin": "https://linkedin.com/company/example",
+          "facebook": "https://facebook.com/example"
+        },
+        "disclaimerText": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Yield & Co Investments (RF) Pty Ltd is an authorised Financial Services Provider (FSP number 00000).",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Collective investment schemes are generally medium- to long-term investments. The value of units may go down as well as up, and past performance is not necessarily a guide to future performance.",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        },
+        "legalFooterLinks": {
+          "links": [
+            {
+              "label": "Privacy Policy",
+              "url": "/legal/privacy"
+            },
+            {
+              "label": "Terms of Use",
+              "url": "/legal/terms"
+            },
+            {
+              "label": "PAIA Manual",
+              "url": "/legal/paia"
+            }
+          ]
+        },
+        "organizationLegalName": "Yield & Co Investments (RF) Pty Ltd",
+        "organizationSameAs": [
+          "https://twitter.com/example",
+          "https://linkedin.com/company/example",
+          "https://facebook.com/example"
+        ]
+      }
+    }
+  ],
+  "includes": {
+    "Entry": [
+      {
+        "sys": {
+          "id": "media-hero",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "mediaImage",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "Home hero background",
+          "image": {
+            "sys": {
+              "id": "asset-hero",
+              "type": "Link",
+              "linkType": "Asset"
+            }
+          },
+          "altText": "Investors reviewing a portfolio on a tablet"
+        }
+      },
+      {
+        "sys": {
+          "id": "media-about-1",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "mediaImage",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "About team photo",
+          "image": {
+            "sys": {
+              "id": "asset-about-1",
+              "type": "Link",
+              "linkType": "Asset"
+            }
+          },
+          "altText": "Members of the investment team reviewing research together"
+        }
+      },
+      {
+        "sys": {
+          "id": "media-about-2",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "mediaImage",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "About trading screens photo",
+          "image": {
+            "sys": {
+              "id": "asset-about-2",
+              "type": "Link",
+              "linkType": "Asset"
+            }
+          },
+          "altText": "Screens showing live index tracking data on a trading floor"
+        }
+      },
+      {
+        "sys": {
+          "id": "media-logo",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "mediaImage",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "Site logo",
+          "image": {
+            "sys": {
+              "id": "asset-logo",
+              "type": "Link",
+              "linkType": "Asset"
+            }
+          },
+          "altText": "Yield & Co logo"
+        }
+      },
+      {
+        "sys": {
+          "id": "media-article-1",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "mediaImage",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "Market outlook article image",
+          "image": {
+            "sys": {
+              "id": "asset-article-1",
+              "type": "Link",
+              "linkType": "Asset"
+            }
+          },
+          "altText": "Line chart showing market index performance trending upward"
+        }
+      },
+      {
+        "sys": {
+          "id": "media-article-2",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "mediaImage",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "TFSA fund launch article image",
+          "image": {
+            "sys": {
+              "id": "asset-article-2",
+              "type": "Link",
+              "linkType": "Asset"
+            }
+          },
+          "altText": "Small event stage announcing a new tax-free savings fund"
+        }
+      },
+      {
+        "sys": {
+          "id": "media-article-3",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "mediaImage",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "Index investing 101 article image",
+          "image": {
+            "sys": {
+              "id": "asset-article-3",
+              "type": "Link",
+              "linkType": "Asset"
+            }
+          },
+          "altText": "An investor reading through an account statement at a kitchen table"
+        }
+      },
+      {
+        "sys": {
+          "id": "media-article-4",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "mediaImage",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "Fee cuts article image",
+          "image": {
+            "sys": {
+              "id": "asset-article-4",
+              "type": "Link",
+              "linkType": "Asset"
+            }
+          },
+          "altText": "Stack of coins next to a rising line graph"
+        }
+      },
+      {
+        "sys": {
+          "id": "media-author-1",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "mediaImage",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "Naledi Khumalo photo",
+          "image": {
+            "sys": {
+              "id": "asset-author-1",
+              "type": "Link",
+              "linkType": "Asset"
+            }
+          },
+          "altText": "Portrait photo of Naledi Khumalo"
+        }
+      },
+      {
+        "sys": {
+          "id": "media-author-2",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "mediaImage",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "Thabo Mokoena photo",
+          "image": {
+            "sys": {
+              "id": "asset-author-2",
+              "type": "Link",
+              "linkType": "Asset"
+            }
+          },
+          "altText": "Portrait photo of Thabo Mokoena"
+        }
+      },
+      {
+        "sys": {
+          "id": "seo-home",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "seo",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "Home SEO",
+          "metaTitle": "Own the Market | Index Investing in South Africa",
+          "metaDescription": "Low-cost, award-winning index funds and ETFs. No minimums. Start building a portfolio you can be proud of today.",
+          "ogTitle": "Own the Market | Index Investing in South Africa",
+          "ogDescription": "Low-cost, award-winning index funds and ETFs. No minimums. Start building a portfolio you can be proud of today.",
+          "noindex": false,
+          "nofollow": false,
+          "structuredDataType": "Organization",
+          "structuredDataOverrides": {}
+        }
+      },
+      {
+        "sys": {
+          "id": "seo-about",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "seo",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "About SEO",
+          "metaTitle": "About Us | Yield & Co",
+          "metaDescription": "We believe everyone deserves a simple, low-cost way to own the market. Meet the team behind Yield & Co.",
+          "ogTitle": "About Us | Yield & Co",
+          "ogDescription": "We believe everyone deserves a simple, low-cost way to own the market. Meet the team behind Yield & Co.",
+          "noindex": false,
+          "nofollow": false,
+          "structuredDataType": "WebPage",
+          "structuredDataOverrides": {}
+        }
+      },
+      {
+        "sys": {
+          "id": "seo-how-to-invest",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "seo",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "How to Invest SEO",
+          "metaTitle": "How to Invest | Getting Started | Yield & Co",
+          "metaDescription": "New to investing? Learn how to open an account, choose a fund and start investing in the market in minutes.",
+          "ogTitle": "How to Invest | Getting Started | Yield & Co",
+          "ogDescription": "New to investing? Learn how to open an account, choose a fund and start investing in the market in minutes.",
+          "noindex": false,
+          "nofollow": false,
+          "structuredDataType": "WebPage",
+          "structuredDataOverrides": {}
+        }
+      },
+      {
+        "sys": {
+          "id": "seo-tax-free",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "seo",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "Tax-Free Investing SEO",
+          "metaTitle": "Tax-Free Investing (TFSA) | Yield & Co",
+          "metaDescription": "Grow your money without paying tax on interest, dividends or capital gains. Learn how a TFSA works and how to start.",
+          "ogTitle": "Tax-Free Investing (TFSA) | Yield & Co",
+          "ogDescription": "Grow your money without paying tax on interest, dividends or capital gains. Learn how a TFSA works and how to start.",
+          "noindex": false,
+          "nofollow": false,
+          "structuredDataType": "FAQPage",
+          "structuredDataOverrides": {}
+        }
+      },
+      {
+        "sys": {
+          "id": "seo-funds",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "seo",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "Funds SEO",
+          "metaTitle": "Our Funds | Index Funds & ETFs | Yield & Co",
+          "metaDescription": "Browse our full range of low-cost index funds and ETFs across equity, bond and property benchmarks.",
+          "ogTitle": "Our Funds | Index Funds & ETFs | Yield & Co",
+          "ogDescription": "Browse our full range of low-cost index funds and ETFs across equity, bond and property benchmarks.",
+          "noindex": false,
+          "nofollow": false,
+          "structuredDataType": "WebPage",
+          "structuredDataOverrides": {}
+        }
+      },
+      {
+        "sys": {
+          "id": "seo-fund-detail",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "seo",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "Fund Detail SEO",
+          "metaTitle": "{{fund.name}} | Fund Details",
+          "metaDescription": "{{fund.name}} trades at R{{fund.price}}. TER {{fund.ter}}%. Code {{fund.code}}.",
+          "ogTitle": "{{fund.name}}",
+          "ogDescription": "{{fund.name}} trades at R{{fund.price}}. TER {{fund.ter}}%.",
+          "noindex": false,
+          "nofollow": false,
+          "structuredDataType": "Product",
+          "structuredDataOverrides": {}
+        }
+      },
+      {
+        "sys": {
+          "id": "seo-news",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "seo",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "News SEO",
+          "metaTitle": "Market Insights & News | Yield & Co",
+          "metaDescription": "Market commentary, fund launches and investor education from the Yield & Co research desk.",
+          "ogTitle": "Market Insights & News | Yield & Co",
+          "ogDescription": "Market commentary, fund launches and investor education from the Yield & Co research desk.",
+          "noindex": false,
+          "nofollow": false,
+          "structuredDataType": "WebPage",
+          "structuredDataOverrides": {}
+        }
+      },
+      {
+        "sys": {
+          "id": "seo-default",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "seo",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "Default site SEO",
+          "metaTitle": "Yield & Co | Index Investing in South Africa",
+          "metaDescription": "Yield & Co offers low-cost, award-winning index funds and ETFs for South African investors.",
+          "ogTitle": "Yield & Co | Index Investing in South Africa",
+          "ogDescription": "Yield & Co offers low-cost, award-winning index funds and ETFs for South African investors.",
+          "noindex": false,
+          "nofollow": false,
+          "structuredDataType": "Organization",
+          "structuredDataOverrides": {}
+        }
+      },
+      {
+        "sys": {
+          "id": "seo-article-market-outlook",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "seo",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "Market Outlook 2026 SEO",
+          "metaTitle": "Market Outlook 2026 | Yield & Co Insights",
+          "metaDescription": "Our research desk's view on markets heading into the rest of 2026, and what it means for index investors.",
+          "ogTitle": "Market Outlook 2026 | Yield & Co Insights",
+          "ogDescription": "Our research desk's view on markets heading into the rest of 2026, and what it means for index investors.",
+          "noindex": false,
+          "nofollow": false,
+          "structuredDataType": "Article",
+          "structuredDataOverrides": {}
+        }
+      },
+      {
+        "sys": {
+          "id": "seo-article-tfsa-launch",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "seo",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "New TFSA Fund Launch SEO",
+          "metaTitle": "New Tax-Free Fund Launch | Yield & Co",
+          "metaDescription": "Yield & Co launches a new tax-free savings account option tracking a broad equity benchmark.",
+          "ogTitle": "New Tax-Free Fund Launch | Yield & Co",
+          "ogDescription": "Yield & Co launches a new tax-free savings account option tracking a broad equity benchmark.",
+          "noindex": false,
+          "nofollow": false,
+          "structuredDataType": "Article",
+          "structuredDataOverrides": {}
+        }
+      },
+      {
+        "sys": {
+          "id": "seo-article-index-101",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "seo",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "Index Investing 101 SEO",
+          "metaTitle": "Index Investing 101 | Yield & Co Insights",
+          "metaDescription": "A plain-language introduction to index investing: what an index fund is and why costs matter.",
+          "ogTitle": "Index Investing 101 | Yield & Co Insights",
+          "ogDescription": "A plain-language introduction to index investing: what an index fund is and why costs matter.",
+          "noindex": false,
+          "nofollow": false,
+          "structuredDataType": "Article",
+          "structuredDataOverrides": {}
+        }
+      },
+      {
+        "sys": {
+          "id": "seo-article-fee-cuts",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "seo",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "Fee Cuts 2026 SEO",
+          "metaTitle": "Yield & Co Cuts Fees Across Core Funds | Insights",
+          "metaDescription": "Yield & Co reduces total expense ratios across its core equity and bond index funds from March 2026.",
+          "ogTitle": "Yield & Co Cuts Fees Across Core Funds | Insights",
+          "ogDescription": "Yield & Co reduces total expense ratios across its core equity and bond index funds from March 2026.",
+          "noindex": false,
+          "nofollow": false,
+          "structuredDataType": "Article",
+          "structuredDataOverrides": {}
+        }
+      },
+      {
+        "sys": {
+          "id": "cat-market-insights",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "category",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "name": "Market Insights",
+          "slug": "market-insights"
+        }
+      },
+      {
+        "sys": {
+          "id": "cat-investor-education",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "category",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "name": "Investor Education",
+          "slug": "investor-education"
+        }
+      },
+      {
+        "sys": {
+          "id": "cat-fund-news",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "category",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "name": "Fund News",
+          "slug": "fund-news"
+        }
+      },
+      {
+        "sys": {
+          "id": "author-naledi",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "author",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "name": "Naledi Khumalo",
+          "jobTitle": "Head of Research",
+          "bio": "Naledi leads the research desk at Yield & Co, covering market strategy and index construction.",
+          "photo": {
+            "sys": {
+              "id": "media-author-1",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "author-thabo",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "author",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "name": "Thabo Mokoena",
+          "jobTitle": "Investor Education Lead",
+          "bio": "Thabo writes and speaks about the fundamentals of index investing and long-term saving.",
+          "photo": {
+            "sys": {
+              "id": "media-author-2",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "card-home-low-cost",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "card",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "title": "Low Costs",
+          "body": "Our funds carry some of the lowest total expense ratios in the market, so more of your return stays yours.",
+          "image": {
+            "sys": {
+              "id": "media-hero",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          },
+          "linkLabel": "See our fees",
+          "linkUrl": "/funds",
+          "icon": "coins"
+        }
+      },
+      {
+        "sys": {
+          "id": "card-home-no-minimums",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "card",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "title": "No Minimums",
+          "body": "Start with any amount and grow your investment over time with recurring contributions.",
+          "linkLabel": "How to invest",
+          "linkUrl": "/how-to-invest",
+          "icon": "wallet"
+        }
+      },
+      {
+        "sys": {
+          "id": "card-home-award-winning",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "card",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "title": "Award-Winning",
+          "body": "Recognised for consistent index tracking and investor-first pricing across our fund range.",
+          "linkLabel": "About us",
+          "linkUrl": "/about",
+          "icon": "award"
+        }
+      },
+      {
+        "sys": {
+          "id": "card-taxfree-grow",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "card",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "title": "Grow Tax-Free",
+          "body": "Pay no tax on interest, dividends or capital gains earned inside your TFSA.",
+          "linkLabel": "Learn more",
+          "linkUrl": "/tax-free-investing",
+          "icon": "leaf"
+        }
+      },
+      {
+        "sys": {
+          "id": "card-taxfree-flexible",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "card",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "title": "Flexible Contributions",
+          "body": "Contribute what you can, when you can, up to the annual and lifetime limits set by SARS.",
+          "linkLabel": "See the limits",
+          "linkUrl": "/tax-free-investing",
+          "icon": "sliders"
+        }
+      },
+      {
+        "sys": {
+          "id": "faq-hti-1",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "faqItem",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "question": "How much money do I need to get started?",
+          "answer": {
+            "nodeType": "document",
+            "data": {},
+            "content": [
+              {
+                "nodeType": "paragraph",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "text",
+                    "value": "There is no minimum lump sum required. Many investors start with a small monthly contribution and increase it over time.",
+                    "marks": [],
+                    "data": {}
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "faq-hti-2",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "faqItem",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "question": "How do I open an account?",
+          "answer": {
+            "nodeType": "document",
+            "data": {},
+            "content": [
+              {
+                "nodeType": "paragraph",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "text",
+                    "value": "You can open an account online in a few minutes. You'll need your South African ID, proof of address and a bank account in your name.",
+                    "marks": [],
+                    "data": {}
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "faq-hti-3",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "faqItem",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "question": "Which fund should I choose?",
+          "answer": {
+            "nodeType": "document",
+            "data": {},
+            "content": [
+              {
+                "nodeType": "paragraph",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "text",
+                    "value": "It depends on your goals and time horizon. A broad market index fund is a reasonable starting point for most long-term investors.",
+                    "marks": [],
+                    "data": {}
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "faq-hti-4",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "faqItem",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "question": "Can I change or cancel my contributions?",
+          "answer": {
+            "nodeType": "document",
+            "data": {},
+            "content": [
+              {
+                "nodeType": "paragraph",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "text",
+                    "value": "Yes. You can increase, decrease, pause or stop your recurring contributions at any time from your account.",
+                    "marks": [],
+                    "data": {}
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "faq-tfsa-1",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "faqItem",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "question": "What is a TFSA?",
+          "answer": {
+            "nodeType": "document",
+            "data": {},
+            "content": [
+              {
+                "nodeType": "paragraph",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "text",
+                    "value": "A tax-free savings account (TFSA) lets you invest without paying tax on the interest, dividends or capital gains you earn inside it.",
+                    "marks": [],
+                    "data": {}
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "faq-tfsa-2",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "faqItem",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "question": "How much can I contribute each year?",
+          "answer": {
+            "nodeType": "document",
+            "data": {},
+            "content": [
+              {
+                "nodeType": "paragraph",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "text",
+                    "value": "SARS sets an annual contribution limit as well as a lifetime limit. Contributions above these limits are taxed at a penalty rate.",
+                    "marks": [],
+                    "data": {}
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "faq-tfsa-3",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "faqItem",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "question": "Can I withdraw money from my TFSA?",
+          "answer": {
+            "nodeType": "document",
+            "data": {},
+            "content": [
+              {
+                "nodeType": "paragraph",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "text",
+                    "value": "Yes, you can withdraw at any time, but withdrawn contribution room is not restored — it still counts toward your lifetime limit.",
+                    "marks": [],
+                    "data": {}
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "faq-tfsa-4",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "faqItem",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "question": "Can I have more than one TFSA?",
+          "answer": {
+            "nodeType": "document",
+            "data": {},
+            "content": [
+              {
+                "nodeType": "paragraph",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "text",
+                    "value": "Yes, but your combined contributions across all your TFSAs, at any provider, may not exceed the annual and lifetime limits.",
+                    "marks": [],
+                    "data": {}
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "faq-tfsa-5",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "faqItem",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "question": "What happens if I exceed the limit?",
+          "answer": {
+            "nodeType": "document",
+            "data": {},
+            "content": [
+              {
+                "nodeType": "paragraph",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "text",
+                    "value": "SARS charges a penalty tax of 40% on any amount you contribute above the annual or lifetime limit, so it pays to track your contributions.",
+                    "marks": [],
+                    "data": {}
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "sec-home-hero",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "sectionHero",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "Home hero",
+          "eyebrow": "25 Years",
+          "heading": "Become the Investor You Want to Be",
+          "subheading": "The complexity of investing can put anyone off. We exist to make it simple.",
+          "backgroundImage": {
+            "sys": {
+              "id": "media-hero",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          },
+          "primaryCtaLabel": "View Our Funds",
+          "primaryCtaUrl": "/funds",
+          "secondaryCtaLabel": "How to Invest",
+          "secondaryCtaUrl": "/how-to-invest",
+          "variant": "default"
+        }
+      },
+      {
+        "sys": {
+          "id": "sec-home-cards",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "sectionCardGrid",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "Home value props",
+          "heading": "Why Invest With Us",
+          "intro": "Everything about how we run our funds is designed to work in your favour.",
+          "cards": [
+            {
+              "sys": {
+                "id": "card-home-low-cost",
+                "type": "Link",
+                "linkType": "Entry"
+              }
+            },
+            {
+              "sys": {
+                "id": "card-home-no-minimums",
+                "type": "Link",
+                "linkType": "Entry"
+              }
+            },
+            {
+              "sys": {
+                "id": "card-home-award-winning",
+                "type": "Link",
+                "linkType": "Entry"
+              }
+            }
+          ],
+          "columns": 3
+        }
+      },
+      {
+        "sys": {
+          "id": "sec-home-cta",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "sectionCtaBanner",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "Home CTA banner",
+          "heading": "Ready to own the market?",
+          "body": "Open an account online in minutes and make your first contribution today.",
+          "ctaLabel": "Get Started",
+          "ctaUrl": "/how-to-invest",
+          "variant": "primary"
+        }
+      },
+      {
+        "sys": {
+          "id": "sec-home-teasers",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "sectionArticleTeaserList",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "Home latest insights",
+          "heading": "Latest Insights",
+          "mode": "latest",
+          "limit": 3
+        }
+      },
+      {
+        "sys": {
+          "id": "sec-global-disclaimer",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "sectionDisclaimer",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "Global compliance disclaimer",
+          "label": "Important information",
+          "body": {
+            "nodeType": "document",
+            "data": {},
+            "content": [
+              {
+                "nodeType": "paragraph",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "text",
+                    "value": "Yield & Co Investments (RF) Pty Ltd is an authorised Financial Services Provider (FSP number 00000).",
+                    "marks": [],
+                    "data": {}
+                  }
+                ]
+              },
+              {
+                "nodeType": "paragraph",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "text",
+                    "value": "Collective investment schemes are generally medium- to long-term investments. The value of units may go down as well as up, and past performance is not necessarily a guide to future performance. Yield & Co does not guarantee the performance of your investment or the return of your capital.",
+                    "marks": [],
+                    "data": {}
+                  }
+                ]
+              }
+            ]
+          },
+          "severity": "info",
+          "collapsible": true
+        }
+      },
+      {
+        "sys": {
+          "id": "sec-about-hero",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "sectionHero",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "About hero",
+          "eyebrow": "Our Story",
+          "heading": "Investing Should Work For Everyone",
+          "subheading": "We started with a simple idea: give every South African a low-cost way to own the market.",
+          "variant": "compact"
+        }
+      },
+      {
+        "sys": {
+          "id": "sec-about-image-text-1",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "sectionImageWithText",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "About - our approach",
+          "heading": "Our Approach",
+          "body": {
+            "nodeType": "document",
+            "data": {},
+            "content": [
+              {
+                "nodeType": "paragraph",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "text",
+                    "value": "We build and manage index funds that track the market rather than trying to beat it. That means lower costs, greater transparency and, over the long term, better outcomes for our investors.",
+                    "marks": [],
+                    "data": {}
+                  }
+                ]
+              }
+            ]
+          },
+          "image": {
+            "sys": {
+              "id": "media-about-1",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          },
+          "imagePosition": "left"
+        }
+      },
+      {
+        "sys": {
+          "id": "sec-about-image-text-2",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "sectionImageWithText",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "About - our technology",
+          "heading": "Built On Modern Infrastructure",
+          "body": {
+            "nodeType": "document",
+            "data": {},
+            "content": [
+              {
+                "nodeType": "paragraph",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "text",
+                    "value": "From order matching to reporting, our platform is built to make investing fast, transparent and easy to understand — whether you're checking a balance or reading a factsheet.",
+                    "marks": [],
+                    "data": {}
+                  }
+                ]
+              }
+            ]
+          },
+          "image": {
+            "sys": {
+              "id": "media-about-2",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          },
+          "imagePosition": "right",
+          "ctaLabel": "See our funds",
+          "ctaUrl": "/funds"
+        }
+      },
+      {
+        "sys": {
+          "id": "sec-about-cta",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "sectionCtaBanner",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "About CTA banner",
+          "heading": "Want to know more?",
+          "body": "Get in touch with our investor relations team.",
+          "ctaLabel": "Contact Us",
+          "ctaUrl": "/about#contact",
+          "variant": "muted"
+        }
+      },
+      {
+        "sys": {
+          "id": "sec-unknown",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "sectionFutureThing",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "Unreleased experimental section",
+          "someFutureField": "This content type does not exist in the schema yet."
+        }
+      },
+      {
+        "sys": {
+          "id": "sec-hti-richtext",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "sectionRichText",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "How to invest - intro",
+          "heading": "Getting Started Is Simple",
+          "body": {
+            "nodeType": "document",
+            "data": {},
+            "content": [
+              {
+                "nodeType": "paragraph",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "text",
+                    "value": "Opening an account takes a few minutes, and you can start investing with any amount. Here's what to expect.",
+                    "marks": [],
+                    "data": {}
+                  }
+                ]
+              },
+              {
+                "nodeType": "paragraph",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "text",
+                    "value": "First, open an account online and verify your identity. Then choose a fund that matches your goals and time horizon. Finally, make your first contribution — by lump sum, recurring debit order, or both.",
+                    "marks": [],
+                    "data": {}
+                  }
+                ]
+              }
+            ]
+          },
+          "width": "default"
+        }
+      },
+      {
+        "sys": {
+          "id": "sec-hti-faq",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "sectionFaqAccordion",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "How to invest - FAQ",
+          "heading": "Common Questions",
+          "items": [
+            {
+              "sys": {
+                "id": "faq-hti-1",
+                "type": "Link",
+                "linkType": "Entry"
+              }
+            },
+            {
+              "sys": {
+                "id": "faq-hti-2",
+                "type": "Link",
+                "linkType": "Entry"
+              }
+            },
+            {
+              "sys": {
+                "id": "faq-hti-3",
+                "type": "Link",
+                "linkType": "Entry"
+              }
+            },
+            {
+              "sys": {
+                "id": "faq-hti-4",
+                "type": "Link",
+                "linkType": "Entry"
+              }
+            }
+          ],
+          "emitFaqSchema": true
+        }
+      },
+      {
+        "sys": {
+          "id": "sec-hti-cta",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "sectionCtaBanner",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "How to invest - CTA",
+          "heading": "Open your account today",
+          "body": "It takes less time than your coffee break.",
+          "ctaLabel": "Open an Account",
+          "ctaUrl": "/how-to-invest#open-account",
+          "variant": "accent"
+        }
+      },
+      {
+        "sys": {
+          "id": "sec-taxfree-richtext",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "sectionRichText",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "Tax-free investing - intro",
+          "heading": "What Is a TFSA?",
+          "body": {
+            "nodeType": "document",
+            "data": {},
+            "content": [
+              {
+                "nodeType": "paragraph",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "text",
+                    "value": "A tax-free savings account (TFSA) lets you invest without paying tax on the interest, dividends or capital gains you earn.",
+                    "marks": [],
+                    "data": {}
+                  }
+                ]
+              },
+              {
+                "nodeType": "paragraph",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "text",
+                    "value": "That means every rand of growth stays in your account, compounding over time, instead of being reduced by tax each year.",
+                    "marks": [],
+                    "data": {}
+                  }
+                ]
+              }
+            ]
+          },
+          "width": "default"
+        }
+      },
+      {
+        "sys": {
+          "id": "sec-taxfree-cards",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "sectionCardGrid",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "Tax-free investing - benefits",
+          "heading": "Why Use a TFSA",
+          "intro": "A few reasons a TFSA is usually the first place to invest.",
+          "cards": [
+            {
+              "sys": {
+                "id": "card-taxfree-grow",
+                "type": "Link",
+                "linkType": "Entry"
+              }
+            },
+            {
+              "sys": {
+                "id": "card-taxfree-flexible",
+                "type": "Link",
+                "linkType": "Entry"
+              }
+            }
+          ],
+          "columns": 2
+        }
+      },
+      {
+        "sys": {
+          "id": "sec-taxfree-faq",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "sectionFaqAccordion",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "Tax-free investing - FAQ",
+          "heading": "TFSA Questions",
+          "items": [
+            {
+              "sys": {
+                "id": "faq-tfsa-1",
+                "type": "Link",
+                "linkType": "Entry"
+              }
+            },
+            {
+              "sys": {
+                "id": "faq-tfsa-2",
+                "type": "Link",
+                "linkType": "Entry"
+              }
+            },
+            {
+              "sys": {
+                "id": "faq-tfsa-3",
+                "type": "Link",
+                "linkType": "Entry"
+              }
+            },
+            {
+              "sys": {
+                "id": "faq-tfsa-4",
+                "type": "Link",
+                "linkType": "Entry"
+              }
+            },
+            {
+              "sys": {
+                "id": "faq-tfsa-5",
+                "type": "Link",
+                "linkType": "Entry"
+              }
+            }
+          ],
+          "emitFaqSchema": true
+        }
+      },
+      {
+        "sys": {
+          "id": "sec-funds-richtext",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "sectionRichText",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "Funds - intro",
+          "heading": "Our Fund Range",
+          "body": {
+            "nodeType": "document",
+            "data": {},
+            "content": [
+              {
+                "nodeType": "paragraph",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "text",
+                    "value": "Browse our full range of low-cost index funds and ETFs, spanning broad equity, bond and property benchmarks.",
+                    "marks": [],
+                    "data": {}
+                  }
+                ]
+              }
+            ]
+          },
+          "width": "wide"
+        }
+      },
+      {
+        "sys": {
+          "id": "sec-funds-list-widget",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "sectionFundListWidget",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "Funds - list widget",
+          "heading": "All Funds",
+          "intro": "Filter by category or sort by size to find the right fund for you.",
+          "categoryId": "all",
+          "topN": 50,
+          "displayVariant": "table",
+          "showFilters": true
+        }
+      },
+      {
+        "sys": {
+          "id": "sec-fund-detail-widget",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "sectionFundDetailWidget",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "Fund detail widget",
+          "showPerformance": true,
+          "showPriceHistory": true,
+          "showFactsheet": true
+        }
+      },
+      {
+        "sys": {
+          "id": "sec-news-hero",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "sectionHero",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "News hero",
+          "eyebrow": "Insights",
+          "heading": "Market Insights & News",
+          "subheading": "Commentary, fund launches and investor education from our research desk.",
+          "variant": "compact"
+        }
+      },
+      {
+        "sys": {
+          "id": "sec-news-teasers",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "sectionArticleTeaserList",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "internalName": "News - all articles",
+          "heading": "All Articles",
+          "mode": "latest",
+          "limit": 12
+        }
+      },
+      {
+        "sys": {
+          "id": "navitem-funds",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "navigationItem",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "label": "Funds",
+          "page": {
+            "sys": {
+              "id": "page-funds",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "navitem-how-to-invest",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "navigationItem",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "label": "How to Invest",
+          "page": {
+            "sys": {
+              "id": "page-how-to-invest",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "navitem-tax-free",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "navigationItem",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "label": "Tax-Free Investing",
+          "page": {
+            "sys": {
+              "id": "page-tax-free",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "navitem-news",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "navigationItem",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "label": "News",
+          "page": {
+            "sys": {
+              "id": "page-news",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "navitem-about",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "navigationItem",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "label": "About",
+          "page": {
+            "sys": {
+              "id": "page-about",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "navitem-footer-about",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "navigationItem",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "label": "About Us",
+          "page": {
+            "sys": {
+              "id": "page-about",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "navitem-footer-news",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "navigationItem",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "label": "Market Insights",
+          "page": {
+            "sys": {
+              "id": "page-news",
+              "type": "Link",
+              "linkType": "Entry"
+            }
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "navitem-footer-contact",
+          "type": "Entry",
+          "createdAt": "2026-01-10T08:00:00Z",
+          "updatedAt": "2026-09-01T10:30:00Z",
+          "contentType": {
+            "sys": {
+              "id": "navigationItem",
+              "type": "Link",
+              "linkType": "ContentType"
+            }
+          }
+        },
+        "fields": {
+          "label": "Contact",
+          "externalUrl": "https://example.com/contact"
+        }
+      }
+    ],
+    "Asset": [
+      {
+        "sys": {
+          "id": "asset-hero",
+          "type": "Asset"
+        },
+        "fields": {
+          "title": "Home hero background",
+          "file": {
+            "url": "//images.ctfassets.net/demo/asset-hero/hero.jpg",
+            "details": {
+              "size": 210432,
+              "image": {
+                "width": 1920,
+                "height": 960
+              }
+            },
+            "fileName": "hero.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "asset-about-1",
+          "type": "Asset"
+        },
+        "fields": {
+          "title": "Team reviewing research",
+          "file": {
+            "url": "//images.ctfassets.net/demo/asset-about-1/about-team.jpg",
+            "details": {
+              "size": 198234,
+              "image": {
+                "width": 1600,
+                "height": 1000
+              }
+            },
+            "fileName": "about-team.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "asset-about-2",
+          "type": "Asset"
+        },
+        "fields": {
+          "title": "Trading floor screens",
+          "file": {
+            "url": "//images.ctfassets.net/demo/asset-about-2/about-screens.jpg",
+            "details": {
+              "size": 205112,
+              "image": {
+                "width": 1600,
+                "height": 1000
+              }
+            },
+            "fileName": "about-screens.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "asset-logo",
+          "type": "Asset"
+        },
+        "fields": {
+          "title": "Company logo",
+          "file": {
+            "url": "//images.ctfassets.net/demo/asset-logo/logo.svg",
+            "details": {
+              "size": 8420,
+              "image": {
+                "width": 512,
+                "height": 128
+              }
+            },
+            "fileName": "logo.svg",
+            "contentType": "image/svg+xml"
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "asset-article-1",
+          "type": "Asset"
+        },
+        "fields": {
+          "title": "Market chart",
+          "file": {
+            "url": "//images.ctfassets.net/demo/asset-article-1/article-market-outlook.jpg",
+            "details": {
+              "size": 154200,
+              "image": {
+                "width": 1200,
+                "height": 800
+              }
+            },
+            "fileName": "article-market-outlook.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "asset-article-2",
+          "type": "Asset"
+        },
+        "fields": {
+          "title": "Fund launch event",
+          "file": {
+            "url": "//images.ctfassets.net/demo/asset-article-2/article-tfsa-launch.jpg",
+            "details": {
+              "size": 149800,
+              "image": {
+                "width": 1200,
+                "height": 800
+              }
+            },
+            "fileName": "article-tfsa-launch.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "asset-article-3",
+          "type": "Asset"
+        },
+        "fields": {
+          "title": "Investor reading a statement",
+          "file": {
+            "url": "//images.ctfassets.net/demo/asset-article-3/article-index-101.jpg",
+            "details": {
+              "size": 151200,
+              "image": {
+                "width": 1200,
+                "height": 800
+              }
+            },
+            "fileName": "article-index-101.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "asset-article-4",
+          "type": "Asset"
+        },
+        "fields": {
+          "title": "Coins stacked next to a graph",
+          "file": {
+            "url": "//images.ctfassets.net/demo/asset-article-4/article-fee-cuts.jpg",
+            "details": {
+              "size": 147300,
+              "image": {
+                "width": 1200,
+                "height": 800
+              }
+            },
+            "fileName": "article-fee-cuts.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "asset-author-1",
+          "type": "Asset"
+        },
+        "fields": {
+          "title": "Portrait of Naledi Khumalo",
+          "file": {
+            "url": "//images.ctfassets.net/demo/asset-author-1/author-naledi.jpg",
+            "details": {
+              "size": 42100,
+              "image": {
+                "width": 400,
+                "height": 400
+              }
+            },
+            "fileName": "author-naledi.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "asset-author-2",
+          "type": "Asset"
+        },
+        "fields": {
+          "title": "Portrait of Thabo Mokoena",
+          "file": {
+            "url": "//images.ctfassets.net/demo/asset-author-2/author-thabo.jpg",
+            "details": {
+              "size": 41800,
+              "image": {
+                "width": 400,
+                "height": 400
+              }
+            },
+            "fileName": "author-thabo.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      }
+    ]
+  }
+}
