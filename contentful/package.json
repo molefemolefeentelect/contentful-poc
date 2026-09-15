@@ -1,0 +1,19 @@
+{
+  "name": "contentful",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "migrate": "node run-migrations.mjs",
+    "seed": "node seed/seed.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "contentful-management": "^12.17.0",
+    "contentful-migration": "^4.32.0",
+    "dotenv": "^17.4.2"
+  }
+}
