@@ -76,6 +76,22 @@ public class FundWidgetResolverTests
     }
 
     [Fact]
+    public async Task CategoryId_all_is_treated_as_no_filter()
+    {
+        var client = new StubFundDataClient();
+        var entry = Entry("fl1", "sectionFundListWidget", new()
+        {
+            ["heading"] = "All Funds",
+            ["categoryId"] = "all",
+        });
+
+        await new FundListSectionResolver(client, NullLogger<FundListSectionResolver>.Instance)
+            .ResolveAsync(entry, SectionContext.ForPage("funds"), CancellationToken.None);
+
+        client.LastRequestedCategoryId.Should().BeNull("\"all\" is a Contentful sentinel for \"no filter\", not a real category id");
+    }
+
+    [Fact]
     public async Task Fund_detail_uses_the_route_override_when_contentful_leaves_the_code_blank()
     {
         var entry = Entry("fd1", "sectionFundDetailWidget", new()

@@ -1,6 +1,5 @@
 using Cms.Bff.Options;
 using Cms.Bff.Pages;
-using Microsoft.Extensions.Options;
 
 namespace Cms.Bff.Endpoints;
 
@@ -25,7 +24,7 @@ public static class SiteEndpoints
         app.MapGet("/api/sitemap", async (SitemapService sitemap, CancellationToken ct) =>
             Results.Ok(await sitemap.GetEntriesAsync(ct)));
 
-        app.MapGet("/health", (IOptions<ContentfulOptions> contentful) =>
-            Results.Ok(new { status = "ok", mode = contentful.Value.Mode }));
+        app.MapGet("/health", (ContentfulModeInfo modeInfo) =>
+            Results.Ok(new { status = "ok", mode = modeInfo.Mode }));
     }
 }

@@ -28,6 +28,7 @@ if (string.Equals(contentfulMode, "Live", StringComparison.OrdinalIgnoreCase))
     builder.Services.AddSingleton<IContentfulClient, HttpContentfulClient>();
 else
     builder.Services.AddSingleton<IContentfulClient, FixtureContentfulClient>();
+builder.Services.AddSingleton(new ContentfulModeInfo(contentfulMode));
 
 builder.Services.AddHttpClient<IFundDataClient, HttpFundDataClient>((sp, client) =>
 {
