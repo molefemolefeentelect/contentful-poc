@@ -19,7 +19,11 @@ public static class PreviewEndpoints
             if (secret != integration.Value.PreviewSecret)
                 return Results.Unauthorized();
 
-            var path = (slug ?? "").Trim('/');
+            // Browsers normalize backslashes to forward slashes for http(s) URLs, so a
+            // slug like "\evil.com" would otherwise survive Trim('/') untouched and turn
+            // "/\evil.com" into a scheme-relative redirect to https://evil.com. Collapse
+            // backslashes to slashes first so the trim also catches them.
+            var path = (slug ?? "").Replace('\\', '/').Trim('/');
             return Results.Ok(new
             {
                 valid = true,
